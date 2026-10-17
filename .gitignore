@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.DS_Store
+# The Mac app build is copied in at deploy time, not committed.
+public/downloads/
+assets/source/*.zip
